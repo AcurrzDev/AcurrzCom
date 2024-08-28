@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/AcurrzCom/static/css/main.e6c13ad2.css",
+    "main.js": "/AcurrzCom/static/js/main.53200102.js",
+    "static/js/453.3d4af77f.chunk.js": "/AcurrzCom/static/js/453.3d4af77f.chunk.js",
+    "index.html": "/AcurrzCom/index.html",
+    "main.e6c13ad2.css.map": "/AcurrzCom/static/css/main.e6c13ad2.css.map",
+    "main.53200102.js.map": "/AcurrzCom/static/js/main.53200102.js.map",
+    "453.3d4af77f.chunk.js.map": "/AcurrzCom/static/js/453.3d4af77f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.53200102.js"
+  ]
+}
